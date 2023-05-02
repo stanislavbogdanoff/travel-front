@@ -1,0 +1,20 @@
+.gal_slide {
+  height: 100% !important;
+}
+
+.gal_slider {
+  width: 100%;
+  .swiper-scrollbar {
+    position: absolute;
+  }
+}
+.primary_img {
+  border-radius: 16px;
+  min-height: 480px;
+  margin-bottom: 12px;
+  object-fit: cover;
+}
+
+.swiper {
+  position: relative;
+}
